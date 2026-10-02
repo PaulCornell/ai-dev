@@ -1,0 +1,14 @@
+{
+  "name": "ai-dev",
+  "description": "Paul Cornell's AI development tools",
+  "owner": {
+    "name": "Paul Cornell"
+  },
+  "plugins": [
+    {
+      "name": "ai-dev-tools",
+      "source": "./",
+      "description": "Skills for turning notes into PRDs and issue reports into engineer-ready tickets"
+    }
+  ]
+}

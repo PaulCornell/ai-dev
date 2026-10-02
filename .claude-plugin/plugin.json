@@ -1,0 +1,10 @@
+{
+  "name": "ai-dev-tools",
+  "description": "Skills for turning notes into PRDs and issue reports into engineer-ready tickets",
+  "author": {
+    "name": "Paul Cornell"
+  },
+  "repository": "https://github.com/PaulCornell/ai-dev",
+  "keywords": ["prd", "requirements", "support", "tickets"],
+  "skills": ["./.claude/skills/"]
+}
